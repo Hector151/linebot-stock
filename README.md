@@ -4,7 +4,7 @@
   but it work with ngrok
  
  
- USE Stock2, it could be main
+ USE Stock2, it could be work
  
  stock1 could be test
  
